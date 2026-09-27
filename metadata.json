@@ -1,0 +1,6 @@
+{
+  "name": "cult.fit Gym & Fitness Club",
+  "description": "Experience India's premier fitness club: cultpass ELITE & PRO gyms, high-energy group workouts (HRX, Strength & Conditioning, Dance Fitness, Boxing, Yoga), expert trainers, and instant free trial bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
